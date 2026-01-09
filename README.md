@@ -1,6 +1,7 @@
+<!--
 # Customer-Shopping-Behaviour-Analysis
 
-<!--
+
 Analysed employee performance and retention patterns using HR data to uncover factors influencing productivity, engagement, and employee tenure, to help organizations reduce turnover and improve workforce efficiency through data-driven insights using Python, Jupyter Notebook, and Power BI.
 
 ## Table of Contents
